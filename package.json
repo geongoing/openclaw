@@ -1,0 +1,23 @@
+{
+  "name": "openclaw-setup",
+  "version": "1.0.0",
+  "description": "OpenClaw 자동 설정 스크립트 - custom-claude 프로바이더",
+  "main": "bin/openclaw-setup.js",
+  "bin": {
+    "openclaw-setup": "./bin/openclaw-setup.js"
+  },
+  "scripts": {
+    "start": "node bin/openclaw-setup.js"
+  },
+  "keywords": [
+    "openclaw",
+    "claude",
+    "ai",
+    "setup"
+  ],
+  "author": "geongoing",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
