@@ -16,7 +16,7 @@ const readline = require('readline');
 // 설정값
 const CONFIG = {
   providerName: 'custom-claude',
-  baseUrl: 'https://ai.9eon.com',
+  baseUrl: 'https://ai.9eon.com/v1',
   apiType: 'anthropic-messages',
   authType: 'api-key',
   primaryModel: 'claude-opus-4-7',
