@@ -2,7 +2,6 @@
 
 /**
  * OpenClaw 자동 설정 스크립트
- * yymaxapi 참조하여 제작
  * 
  * 사용법:
  *   node setup-openclaw.js
